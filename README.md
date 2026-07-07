@@ -21,64 +21,71 @@
 📊 Building end-to-end AI applications using Python  
 🎥 Teaching AI & Python concepts to Urdu-speaking learners  
 🚀 Focused on solving real-world problems with AI  
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:12px 0;">
+  <a href="https://www.linkedin.com/in/ali-husnain-nazar" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/AliDeveloper-dev" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:alihusnin499@gmail.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# Skill Set
 
-## 🤖 AI Chatbot
-✔ Integrated LLM APIs for intelligent responses  
-✔ Implemented conversation flow management  
-✔ Built using Python & REST APIs  
+<div align="center">
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px 8px; margin-bottom:8px;">
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+    <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+    <a href="https://devdocs.io/c/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn"/></a>
+    <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  </div>
 
----
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px 8px; margin-bottom:8px;">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/></a>
+    <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></a>
+    <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit"/></a>
+    <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+    <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  </div>
 
-## 🌦 Weather Prediction App
-✔ Machine Learning based forecasting system  
-✔ Data preprocessing & feature engineering  
-✔ Built using Scikit-Learn & Pandas  
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px 8px; margin-bottom:8px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/></a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></a>
+  </div>
 
----
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px 8px; margin-bottom:8px;">
+    <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+    <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+    <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda"/></a>
+  </div>
 
-## 📉 Customer Churn Prediction
-✔ Compared Logistic Regression, Random Forest & XGBoost  
-✔ Applied hyperparameter tuning & cross-validation  
-✔ Performed complete EDA & model optimization  
-
----
-
-# 🏆 Achievements
-
-🏅 AI educator for Urdu-speaking students  
-🏅 Built multiple real-world AI projects  
-🏅 Growing AI awareness through social media content  
-🏅 Strong foundation in ML pipelines & predictive analytics  
-
----
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:6px 8px; margin-bottom:8px;">
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"/></a>
+    <a href="https://go.dev/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
+    <a href="https://redis.io/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"/></a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+  </div>
 
 # 📊 GitHub Analytics
 
