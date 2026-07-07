@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Machine Learning Engineer | Python Developer | AI Content Creator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects;Teaching+AI+in+Urdu+%26+Hinglish" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Developer;Deep+Learning+Developer;Python+Programmer" />
 
 <br>
 
@@ -25,32 +25,6 @@
   <a href="https://www.linkedin.com/in/ali-husnain-nazar" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/AliDeveloper-dev" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:alihusnin499@gmail.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
-
----
-
-# Skill Set
-<h4 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=1000&color=3CA2C4&center=true&width=700&height=80&lines=AI+Engineer;Automation+Specialist;Data+Scientist" alt="Typing SVG" />
-</h4>
-
----
-
-# **About Me**
-
-- 🔭 Currently building **Agentic AI, RAG Systems, LLM Applications & Intelligent Automation**
-- 🌱 Exploring **LangGraph, Multi-Agent Systems, Multimodal AI, Advanced NLP & Generative AI**
-- 💡 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP & AI Research**
-- 🤝 Open to collaborating on **AI, Data Science, Automation & Open Source Projects**
-- 🎯 Interested in solving real-world problems through intelligent AI systems.
-- 👨‍💻 All my projects are available on **GitHub**
-- 📍 Lahore, Pakistan
-- ⚡ Fun Fact: **I love building production-ready AI applications powered by LLMs and Automation.**
-
-<div align="left" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:12px 0;">
-  <a href="https://www.linkedin.com/in/muhammad-dawood-jaffar-783a4a278/" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/mdawood25104" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:muhammaddawoodjaffar@gmail.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
@@ -135,19 +109,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AliDeveloper-dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/)
-
-</div>
 
 ---
 
